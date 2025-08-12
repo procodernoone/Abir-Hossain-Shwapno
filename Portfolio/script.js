@@ -107,18 +107,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Sample projects data
     let projects = [
         {
-            title: "Personal Website",
+            title: "Lily AI",
             category: "web",
-            image: "https://i.imgur.com/JqYeZoL.png",
-            description: "A responsive personal website built with HTML, CSS, and JavaScript.",
-            link: "#"
+            image: "a.jpg",
+            description: "Just a friendly AI.",
+            link: "https://lily-ai.onrender.com"
         },
         {
-            title: "Python Calculator",
-            category: "python",
+            title: "Hospital Website",
+            category: "web",
             image: "https://i.imgur.com/JqYeZoL.png",
-            description: "A simple calculator application built with Python and Tkinter.",
-            link: "#"
+            description: "Website so beatiful, you will cry.",
+            link: "https://test-deployment-e8og.onrender.com/"
         },
         {
             title: "Weather App",
@@ -319,4 +319,5 @@ document.addEventListener('DOMContentLoaded', function() {
     // Trigger confetti on certain actions
     document.querySelector('.hero-image').addEventListener('click', triggerConfetti);
     document.querySelector('.footer-top').addEventListener('click', triggerConfetti);
+
 });
