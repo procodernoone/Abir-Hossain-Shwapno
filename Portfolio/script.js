@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let projects = [
         {
             title: "Lily AI",
-            category: "web" "python",
+            category: "web",
             image: "a.jpg",
             description: "Just a friendly AI.",
             link: "https://lily-ai.onrender.com"
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             title: "Patholab",
-            category: "web" "python",
+            category: "python",
             image: "c.jpg",
             description: "A weather application that fetches data from a weather API using JavaScript.",
             link: "#"
@@ -321,4 +321,5 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.footer-top').addEventListener('click', triggerConfetti);
 
 });
+
 
