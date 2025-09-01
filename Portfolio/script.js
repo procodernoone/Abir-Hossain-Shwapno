@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Patholab",
             category: "python",
             image: "c.jpg",
-            description: "A weather application that fetches data from a weather API using JavaScript.",
+            description: "A full stack offline Pathology Management System made with Python, Flask, Sqlite, HTML, CSS, and JS.",
             link: "#"
         },
         {
@@ -321,5 +321,6 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.footer-top').addEventListener('click', triggerConfetti);
 
 });
+
 
 
