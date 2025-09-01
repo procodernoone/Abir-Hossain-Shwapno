@@ -108,30 +108,30 @@ document.addEventListener('DOMContentLoaded', function() {
     let projects = [
         {
             title: "Lily AI",
-            category: "web",
+            category: "web" "python",
             image: "a.jpg",
             description: "Just a friendly AI.",
             link: "https://lily-ai.onrender.com"
         },
         {
-            title: "Hospital Website",
+            title: "Medicare+",
             category: "web",
-            image: "https://i.imgur.com/JqYeZoL.png",
-            description: "Website so beatiful, you will cry.",
+            image: "b.jpg",
+            description: "Website Dedicated for Hosppitals.",
             link: "https://test-deployment-e8og.onrender.com/"
         },
         {
-            title: "Weather App",
-            category: "js",
-            image: "https://i.imgur.com/JqYeZoL.png",
+            title: "Patholab",
+            category: "web" "python",
+            image: "c.jpg",
             description: "A weather application that fetches data from a weather API using JavaScript.",
             link: "#"
         },
         {
-            title: "To-Do List",
+            title: "Interactive Point Network",
             category: "web",
-            image: "https://i.imgur.com/JqYeZoL.png",
-            description: "An interactive to-do list application with local storage support.",
+            image: "d.jpg",
+            description: "Just A for Fun Project Where You Control A Network Of Interactive Points.",
             link: "#"
         },
         {
@@ -321,3 +321,4 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.footer-top').addEventListener('click', triggerConfetti);
 
 });
+
