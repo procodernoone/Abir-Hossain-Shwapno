@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abir-hossain-shwapno.onrender.com/sitemap.xml
