@@ -18,12 +18,13 @@ Personal portfolio of **Abir Hossain Shwapno**, a maker and developer from Bangl
 
 ## About this site
 
-A fast, minimal, single-page portfolio with a notebook-style design.
+A fast, single-page portfolio designed like a circuit board: gold traces, solder pads, silkscreen labels and a chip-package portrait.
 
 - Sections: home, about, skills, projects, certificates, contact
-- Filterable project grid and certificate gallery with lightbox
+- Projects laid out as a bill of materials, with category filters
+- Live SG90 servo in the hero that follows your cursor (or scroll on touch devices)
+- Certificate gallery with lightbox
 - Contact form powered by Formspree
-- Animated particle background and scroll reveals
 - SEO ready: JSON-LD structured data, Open Graph tags, sitemap, robots.txt, and WebP images
 
 ## Tech stack
